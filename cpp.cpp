@@ -1,3 +1,10 @@
+#include <iostream>
 
-This is a empty file.
-  Created by MS Pui Pui#
+using namespace std;
+
+int Main()
+{
+	cout << "Created by me" << endl;
+	return 0;
+
+}
